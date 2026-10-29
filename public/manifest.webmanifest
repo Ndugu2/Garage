@@ -1,0 +1,17 @@
+{
+  "name": "Makanika Connect",
+  "short_name": "Makanika",
+  "description": "Find roadside assistance near you.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f6",
+  "theme_color": "#18764c",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
